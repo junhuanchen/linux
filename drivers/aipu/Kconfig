@@ -1,0 +1,5 @@
+
+# linux/drivers/aipu
+menuconfig MAIN_AIPU
+	tristate "https://github.com/Icenowy/zhouyi-mainline"
+  default m
